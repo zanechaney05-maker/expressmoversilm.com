@@ -1,0 +1,7 @@
+preview/
+dist/
+__pycache__/
+.DS_Store
+.env
+*.pem
+*.key

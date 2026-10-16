@@ -1,0 +1,3 @@
+Bricolage Grotesque and Hanken Grotesk are licensed under the SIL Open Font License 1.1.
+Files are the latin variable builds from the Fontsource project.
+https://openfontlicense.org
