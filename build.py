@@ -637,7 +637,6 @@ def town_page(slug, town, title, desc, lead, intro, tips, faq, photo, alt, nearb
 <section class="section section--band"><div class="wrap stack-lg">
   <div class="stack">
     <h2>Good to know about moving in %(town)s</h2>
-    <p>[[tbc:the three notes about %(town)s below. Fix anything that does not match what the crew sees there, or approve them.]]</p>
   </div>
   <div class="assure">%(tips)s</div>
   <p>%(nearby)s</p>
