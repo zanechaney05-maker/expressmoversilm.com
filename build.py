@@ -1196,7 +1196,7 @@ def csp():
         img.append("https://www.facebook.com")
     parts = ["default-src 'self'", "script-src " + " ".join(script), "style-src 'self'", "img-src " + " ".join(img),
              "font-src 'self'", "connect-src " + " ".join(connect), "form-action " + " ".join(form),
-             "base-uri 'self'", "object-src 'none'", "frame-src 'none'", "upgrade-insecure-requests"]
+             "base-uri 'self'", "object-src 'none'", "frame-src 'none'"]
     return "; ".join(parts)
 
 
